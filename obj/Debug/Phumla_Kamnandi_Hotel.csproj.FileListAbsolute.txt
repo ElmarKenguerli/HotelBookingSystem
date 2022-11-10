@@ -1,0 +1,39 @@
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\bin\Debug\BookingDatabase.mdf
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\bin\Debug\BookingDatabase_log.ldf
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\bin\Debug\Phumla_Kamnandi_Hotel.exe.config
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\bin\Debug\Phumla_Kamnandi_Hotel.exe
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\bin\Debug\Phumla_Kamnandi_Hotel.pdb
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csproj.AssemblyReference.cache
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.Properties.Resources.resources
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.BookingForm.resources
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.BookingListingForm.resources
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.GuestForm.resources
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.GuestListingForm.resources
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.HotelForm.resources
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csproj.GenerateResource.cache
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.exe
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.pdb
+C:\Users\Lula Benni\Desktop\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.RoomsForm.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\BookingDatabase.mdf
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\BookingDatabase_log.ldf
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\Phumla_Kamnandi_Hotel.exe.config
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\Phumla_Kamnandi_Hotel.exe
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\Phumla_Kamnandi_Hotel.pdb
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csprojAssemblyReference.cache
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.Properties.Resources.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.BookingForm.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.BookingListingForm.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.GuestForm.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.GuestListingForm.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.HotelForm.resources
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csproj.GenerateResource.cache
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csproj.CoreCompileInputs.cache
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.exe
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.pdb
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\EntityFramework.dll
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\EntityFramework.xml
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.csproj.CopyComplete
+C:\Users\elmar\Downloads\Phumla_Kamnandi_Hotel\obj\Debug\Phumla_Kamnandi_Hotel.ViewLayer.ReportForm.resources
